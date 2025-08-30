@@ -1,6 +1,6 @@
 # NS Reisplanner
 
-Journey planner for the Dutch railnet. https://daveyvdweide.github.io/ns-reisplanner/
+Journey planner for the Dutch railnet. https://daveyvdgit.github.io/ns-reisplanner/
 
 ## TODO 
 
